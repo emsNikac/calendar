@@ -1,6 +1,6 @@
 # Calendar
 
-A new Flutter project.
+A new Flutter project. <br>
 Tip: Even though original project name is calculator, the project has nothing to do with calculator app.
 
 ## Getting Started
